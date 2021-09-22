@@ -41,7 +41,7 @@ tag app
 					<h2> "About the App"
 					<p> "The app is built using the {<strong> "Imba Programming Language"}"
 					<p> "You can find the source code of the app {<br>}on my"
-					<a[td:none fw:500 fs:1.5rem bgc:black c:white px:5 py:2 rd:md mt:4] href="https://macro21kgb.github.io"> "github"
+					<a[td:none fw:500 fs:1.5rem bgc:black c:white px:5 py:2 rd:md mt:4] href="https://github.com/macro21KGB/imba-calculator"> "github"
 					<br>
 					<br>
 					<h4> "Check the docs at {<br>} "
