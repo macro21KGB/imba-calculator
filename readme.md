@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [imba-base-template](https://github.com/imba/imba-base-template).
 
+### Live DEMO
+[click here to see the live demo on surge.sh](https://imba-calculator.surge.sh/)
+
 ## Available Scripts
 
 In the project directory, you can run:
